@@ -9,14 +9,14 @@
 
 - 👨‍💻 All of my projects are available on [github.com/daniel4x0](github.com/daniel4x0)
 
-- You can connect with me on LinkedIn too [https://www.linkedin.com/in/daniel4x0/](https://www.linkedin.com/in/daniel4x0/)
-
-- 📫 How to reach me **danieluzegbu@gmail.com**
+- 📫 How to reach me: **danieluzegbu@gmail.com**
 
 - ⚡ Fun fact: **"hippopotomonstrosesquippedaliophobia" is a technical name for fear of long words**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/daniel4x0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel4x0" height="30" width="40" /></a>
+<a href="https://instagram.com/daniel4x0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniel4x0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
