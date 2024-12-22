@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate student developer in Italy</h3>
 
-- 🔭 I’m currently working on **a project called Cub3d**
+- 🔭 I’m currently working on **a project called Inception**
 
 - 👨‍ I am studying Applied Computer Science and Artificial Intelligence **at the University of Rome "La Sapienza"**
 
