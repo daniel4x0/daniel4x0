@@ -3,15 +3,13 @@
 
 - 🔭 I’m currently working on **a project called Inception**
 
-- 👨‍ I am studying Applied Computer Science and Artificial Intelligence **at the University of Rome "La Sapienza"**
+- 👨‍ I studied Applied Computer Science and Artificial Intelligence **at the University of Rome "La Sapienza"**
 
 - 👨‍💻 I am also a student of **42 Roma Luiss in the 42 global network**
 
 - 👨‍💻 All of my projects are available on [github.com/daniel4x0](github.com/daniel4x0)
 
 - 📫 How to reach me: **danieluzegbu@gmail.com**
-
-- ⚡ Fun fact: **"hippopotomonstrosesquippedaliophobia" is a technical name for fear of long words**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
