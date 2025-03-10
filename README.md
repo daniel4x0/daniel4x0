@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate student developer in Italy</h3>
+<h3 align="center">A student developer in Italy</h3>
 
 - 🔭 I’m currently working on **a project called Inception**
 
